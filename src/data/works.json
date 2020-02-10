@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Admin Login",
+    "category": ["design", "code"],
+    "client": "Personal",
+    "year": "2020",
+    "featured": true,
+    "url": "https://sumit1523.github.io/Login-using-redux-saga/",
+    "image": {
+      "src": "/images/works/AdminLogin.png",
+      "sources": [
+        {
+          "media": "max-width: 40rem",
+          "srcset": ["/images/works/AdminLogin.png"]
+        },
+        {
+          "srcset": ["/images/works/AdminLogin.png"]
+        }
+      ]
+    }
+  },
+  {
+    "title": "Latest top 20 Movie List",
+    "category": ["design", "code"],
+    "client": "Personal",
+    "year": "2019",
+    "featured": true,
+    "url": "https://vigorous-poitras-9cb65c.netlify.com/",
+    "image": {
+      "src": "/images/works/Latest top 20 Movie List.png",
+      "sources": [
+        {
+          "media": "max-width: 40rem",
+          "srcset": ["/images/works/Latest top 20 Movie List.png"]
+        },
+        {
+          "srcset": ["/images/works/Latest top 20 Movie List.png "]
+        }
+      ]
+    }
+  },
+  {
+    "title": "password Strength Finder",
+    "category": ["design", "code"],
+    "client": "Personal",
+    "year": "2019",
+    "featured": true,
+    "url": "https://mystifying-montalcini-d55bc4.netlify.com/",
+    "image": {
+      "src": "/images/works/password Strength Finder.png",
+      "sources": [
+        {
+          "media": "max-width: 40rem",
+          "srcset": ["/images/works/password Strength Finder.png"]
+        },
+        {
+          "srcset": ["/images/works/password Strength Finder.png "]
+        }
+      ]
+    }
+  },
+  {
+    "title": "Speech Recognition",
+    "category": ["design", "code"],
+    "client": "Personal",
+    "year": "2019",
+    "featured": true,
+    "url": "https://kind-wing-d7770d.netlify.com/",
+    "image": {
+      "src": "/images/works/speech cognition.png",
+      "sources": [
+        {
+          "media": "max-width: 40rem",
+          "srcset": ["/images/works/speech cognition.png"]
+        },
+        {
+          "srcset": ["/images/works/speech cognition.png "]
+        }
+      ]
+    }
+  },
+  {
+    "title": "Quiz Game React",
+    "category": ["design", "code"],
+    "client": "Personal",
+    "year": "2019",
+    "featured": true,
+    "url": "https://elated-engelbart-1360cf.netlify.com/",
+    "image": {
+      "src": "/images/works/Quiz Game.png",
+      "sources": [
+        {
+          "media": "max-width: 40rem",
+          "srcset": ["/images/works/Quiz Game.png"]
+        },
+        {
+          "srcset": ["/images/works/Quiz Game.png "]
+        }
+      ]
+    }
+  },
+  {
+    "title": "shoppingCart React",
+    "category": ["design", "code"],
+    "client": "Personal",
+    "year": "2019",
+    "featured": true,
+    "url": "https://happy-volhard-827ba1.netlify.com/",
+    "image": {
+      "src": "/images/works/shoppingCart.png",
+      "sources": [
+        {
+          "media": "max-width: 40rem",
+          "srcset": ["/images/works/shoppingCart.png"]
+        },
+        {
+          "srcset": ["/images/works/shoppingCart.png "]
+        }
+      ]
+    }
+  },
+  {
+    "title": "Multi step form Redux-form",
+    "category": ["design", "code"],
+    "client": "Personal",
+    "year": "2019",
+    "featured": true,
+    "url": "https://fervent-sammet-63ae62.netlify.com/",
+    "image": {
+      "src": "/images/works/Multi step form.png",
+      "sources": [
+        {
+          "media": "max-width: 40rem",
+          "srcset": ["/images/works/Multi step form.png"]
+        },
+        {
+          "srcset": ["/images/works/Multi step form.png "]
+        }
+      ]
+    }
+  },
+  {
+    "title": "CurrentTime-based-Indicator",
+    "category": ["development", "code"],
+    "client": "personal",
+    "year": "2019",
+    "url": "https://elegant-feynman-8f22ef.netlify.com/",
+    "featured": false
+  },
+  {
+    "title": "React-Pagination",
+    "category": ["development", "code"],
+    "client": "personal",
+    "year": "2019",
+    "url": "https://friendly-bell-1976be.netlify.com/",
+    "featured": false
+  },
+  {
+    "title": "Meijer",
+    "category": ["development", "code"],
+    "client": "Meijer",
+    "year": "2019",
+    "featured": false
+  },
+  {
+    "title": "Abbott",
+    "category": ["development", "code"],
+    "client": "Abbott",
+    "year": "2019",
+    "featured": false
+  }
+]
