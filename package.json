@@ -1,5 +1,4 @@
 {
-  "homepage": "https://sumit1523.github.io/Portfolio",
   "name": "portfolio",
   "version": "1.0.0",
   "description": "Sumit kumar's personal portfolio website",
@@ -13,8 +12,7 @@
     "precommit": "npm run lint:css && npm run lint:js",
     "gzip": "gzip -r public",
     "deploy": "gatsby build && gh-pages -d public -b master",
-    "pubblish": "npm run build && npm run deploy",
-    "predeploy": "npm run build",
+    "pubblish": "npm run build && npm run deploy"
   },
   "keywords": [
     "react",
