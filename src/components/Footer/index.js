@@ -10,7 +10,7 @@ const Footer = () =>
     <Item position='right'>
       <span>P.I. 03671100984&nbsp;-&nbsp;</span>
 
-      <a target="_blank" rel="noopener noreferrer" href='https://github.com/sumit1523/portfolio'>Source code</a>
+      <a target="_blank" rel="noopener noreferrer" href='https://romantic-wing-626f48.netlify.com/'>Source code</a>
     </Item>
   </Wrapper>
 
